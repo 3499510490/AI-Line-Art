@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/状态-免费免注册-brightgreen?style=for-the-badge" alt="Status">
 </p>
 
-**HANYUAI 图像助理 - 一键提取线稿** 是一款基于深度学习技术的免费在线工具。它能够智能识别图像边缘，在 10 秒内将任何照片（人物、建筑、植物、风景）转换为干净、流畅的艺术线稿。无需安装庞大的绘图软件，即可获取专业级素描底稿。
+**HANYUAI 图像助理 - 一键提取线稿** 是一款基于深度学习技术的免费在线工具。它能够智能识别图像边缘，在 10 秒内将任何照片（人物、建筑、植物、风景）转换为干净、流畅的艺术线稿。无需安装庞大的绘图软件，即可获取专业级素描底稿
 
 🔗 **立即访问：** [https://www.sipingseo.com/zh/line-art-extract/ai-one-clilck-line-art-extractor](https://www.sipingseo.com/zh/line-art-extract/ai-one-clilck-line-art-extractor)
 
